@@ -1,6 +1,6 @@
 # Coursat
 
-## Coursat ia an Education Platform, Students can easily Register, Attend Classes, Take Qiuzes
+## "Coursat" : an Education Platform, Students can easily Register, Attend Classes, Take Quizes
 ## Source: [github](https://github.com/absallam1999/Coursat)
 
 ## Tools:
